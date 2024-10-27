@@ -39,3 +39,4 @@ console.log((10 * 10 > 50) && (5 * 5 < 50));
 console.log((1 + 2 > 5) || (1 * 10 > 5));
 
 // 10. Write code that demonstrates an automatic type conversion as shown in Chapter 01.
+console.log("The number is " + 10);
