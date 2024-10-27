@@ -12,6 +12,7 @@ console.log("Hello" + " " + "World!");
 // 3. Write code to output "Hello" on one line and "World!" on the next line to the console.
 // *Note: You should only have one console.log() statement - how do you add a new line in
 // a string?...
+console.log("Hello\nWorld!");
 
 // 4. Write code to output the result of the arithmetic expression to the console:
 // 3 * 8 + 2;
